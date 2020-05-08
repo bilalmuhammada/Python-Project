@@ -3,7 +3,7 @@
 ## Architecture Diagram
 
 
-
+![](arch.PNG)
 
 # Software 
 * Python above 3
