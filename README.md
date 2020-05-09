@@ -1,10 +1,10 @@
 # Desktop Control using Gesture
 
-## Architecture Diagram
+## How to it work
 
 
 ![](arch.PNG)
 
 # Software 
-* Python above 3
-* Opencv above 2.7
+* Python above 3(https://opencv.org/)
+* Opencv above 2.7(https://jar-download.com/artifacts/org.bytedeco/javacv/1.4/source-code)
